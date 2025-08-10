@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Igai is a compact and efficient **SPI-to-I²C bridge IP core** designed to enable smooth communication between SPI-based controllers and I²C peripherals. Acting as a protocol converter, Igai receives commands and data over the Serial Peripheral Interface (SPI) and translates them into I²C transactions, making it easy to integrate I²C devices into SPI-based systems.
+**Igai** is a compact and efficient **SPI-to-I²C bridge IP core** designed to enable smooth communication between SPI-based controllers and I²C peripherals. Acting as a protocol converter, Igai receives commands and data over the Serial Peripheral Interface (SPI) and translates them into I²C transactions, making it easy to integrate I²C devices into SPI-based systems.
 
 This IP core is particularly useful in embedded designs where an SPI host must control I²C sensors, EEPROMs, displays, or other I²C-compliant components without the need for dedicated I²C hardware in the host system.
 

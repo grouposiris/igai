@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <p align="center">
-  <img src="docs/images/results/igai_logo.png" width=250 alt="Igai IP logo">
+  <img src="docs/images/results/igai_logo.png" width=200 alt="Igai IP logo">
 </p>
 
 ## Introduction
